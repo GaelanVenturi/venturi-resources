@@ -5,3 +5,4 @@
 ## Web Comics
 
 - [XKCD](https://xkcd.com/)
+- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
